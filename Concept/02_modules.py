@@ -4,6 +4,7 @@ joke = pyjokes.get_joke();
 print(joke);
 
 # Module is a pre written code used by anyone , we can use import keyword and use if we have installed it
+# There are two types of module built in and external
 """ PIP is command from which we can bring any module in our computer by running 
     PIP install module name(like pyjokes)
 """
