@@ -4,8 +4,7 @@
 
 letter ='''Dear Name , 
 You have been selected
-Date
-        '''
+Date'''
 
 #print(letter.replace("Name" , name).replace("Date" , "21 Jan 2025"))
 
