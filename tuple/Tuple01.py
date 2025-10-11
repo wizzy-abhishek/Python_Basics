@@ -5,4 +5,4 @@ print(type(tpl))
 tpl2 = (9,8,7,6,5,4,3,2,1)
 print(tpl2)
 
-print(tpl2.index(2))
+print(tpl2.index(9))
