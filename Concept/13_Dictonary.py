@@ -5,7 +5,9 @@ marks = {
     "Abhishek" : 6 ,
     "Gargi":84 ,
     "Abhishek":12 # Value of Abhishek got replaced by 12 
-} # Traverse fast than list
+} 
+
+# Traverse fast than list
 " It is unorder , mutable and indexed " 
 " It cant have duplicate keys "
 
