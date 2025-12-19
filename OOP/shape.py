@@ -18,6 +18,9 @@ class Circle(Shape):
     def area(self):
         return pi * self.rad * self.rad
 
+    def __repr__(self):
+        return f"The circle of radius {self.rad}"
+
 
 def area_of_shape(shape):
     print(shape.area())
@@ -28,3 +31,5 @@ area_of_shape(c)
 
 r = Rectangle(3,4)
 area_of_shape(r)
+
+print(c)
