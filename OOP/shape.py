@@ -1,7 +1,10 @@
 from math import pi
-class Shape:
+from abc import ABC, abstractmethod
+
+class Shape(ABC):
+    @abstractmethod
     def area(self):
-        return "Area of the shape"
+        pass
 
 class Rectangle(Shape):
     def __init__(self, b, w):
