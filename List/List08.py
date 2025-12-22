@@ -1,4 +1,4 @@
 matrix = [[1,2,3],[5,6,7],[8,9,10]]
 
-flatten = [x for y in matrix for x in y]
-print(flatten)
+flatten = [x+1 for y in matrix for x in y] #Flatten with +1 value
+print(flatten) 
