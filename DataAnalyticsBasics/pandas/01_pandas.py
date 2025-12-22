@@ -10,4 +10,4 @@ index = ['a', 'g', 'a','b']
 series = pd.Series(data, index) # series = pd.Series(data, index, verify_integrity=True) stops duplicate keys
 
 print(series)
-print(series['a'])
+print(series['a']) # gives all the element which is related to element 'a'
