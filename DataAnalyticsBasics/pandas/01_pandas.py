@@ -7,6 +7,7 @@ print(series)
 
 data = [10,20,30,40]
 index = ['a', 'g', 'a','b']
-series = pd.Series(data, index, verify_integrity=True)
+series = pd.Series(data, index) # series = pd.Series(data, index, verify_integrity=True) stops duplicate keys
 
 print(series)
+print(series['a'])
