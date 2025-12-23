@@ -4,7 +4,9 @@ def sales_processed_data(filepath, columns_removed):
     data_file = pd.read_csv(filepath)
     data_file.drop_duplicates(inplace=True)
     data_file.drop(labels=columns_removed, axis=1, inplace=True)
-    data_file['TotalAmount'] = data_file['TotalAmount'].fillna(data_file['UnitPrice'] * data_file['Quantity']).astype(int)
+    data_file['TotalAmount'] = (data_file['TotalAmount']
+                                .fillna(data_file['UnitPrice'] * data_file['Quantity'])
+                                .astype(int))
     return data_file
 
 file_path1 = 'DataAnalyticsBasics/pandas/sales.csv'
