@@ -1,9 +1,9 @@
 OrderID,Date,Product,Category,Quantity,UnitPrice,TotalAmount,City,SalesPerson
-2001,2025-02-01,Smart Watch,Electronics,3,12000,36000,Jaipur,Kunal
+2001,2025-02-01,Smart Watch,Electronics,3,500,,Jaipur,Kunal
 2002,2025-02-02,Keyboard,Accessories,8,1500,12000,Noida,Anita
 2003,2025-02-03,Monitor,Electronics,4,18000,72000,Gurgaon,Deepak
-2004,2025-02-04,Bookshelf,Furniture,2,9500,19000,Indore,Megha
+2004,2025-02-04,Bookshelf,Furniture,2,9500,,Indore,Megha
 2005,2025-02-05,Marker Set,Stationery,30,120,3600,Patna,Saurav
 2006,2025-02-06,Printer,Electronics,1,22000,22000,Ahmedabad,Ritika
 2007,2025-02-07,Mouse,Accessories,15,700,10500,Surat,Nikhil
-2008,2025-02-08,Conference Table,Furniture,1,45000,45000,Nagpur,Ayesha
+2008,2025-02-08,Conference Table,Furniture,1,45000,,Nagpur,Ayesha
