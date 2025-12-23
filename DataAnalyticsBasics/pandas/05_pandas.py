@@ -2,9 +2,8 @@ import pandas as pd
 
 def sales_processed_data(filepath, columns_removed):
     data_file = pd.read_csv(filepath)
-    data_file.drop_duplicates()
-    for col in columns_removed:
-        data_file.drop(labels=col, axis=1, inplace=True)
+    data_file.drop_duplicates(inplace=True)
+    data_file.drop(labels=columns_removed, axis=1, inplace=True)
     data_file['TotalAmount'] = data_file['TotalAmount'].fillna(data_file['UnitPrice'] * data_file['Quantity']).astype(int)
     return data_file
 
@@ -19,4 +18,12 @@ def concat_files(*filepaths):
 
 file = concat_files(file_path1, file_path2)
 print(file)
-file.to_excel('final_sales.xlsx')
+# file.to_excel('final_sales.xlsx')
+
+"""Area-wise sales"""
+
+area_wise_sales = file.groupby('City')['TotalAmount'].sum()
+print(area_wise_sales)
+group = ['City', 'Category', 'Product']
+product_category_area_sale = file.groupby(group)['TotalAmount'].sum()
+print(product_category_area_sale)
