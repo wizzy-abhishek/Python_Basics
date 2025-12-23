@@ -7,3 +7,5 @@ OrderID,Date,Product,Category,Quantity,UnitPrice,TotalAmount,City,SalesPerson
 1006,2025-01-10,Tablet,Electronics,4,25000,100000,Pune,Neha
 1007,2025-01-11,Pen Drive,Accessories,20,800,16000,Kolkata,Rohan
 1008,2025-01-12,Desk,Furniture,2,12000,24000,Delhi,Pooja
+1008,2025-01-12,Desk,Furniture,2,12000,24000,Delhi,Pooja
+1007,2025-01-11,Pen Drive,Accessories,20,800,16000,Kolkata,Rohan
