@@ -1,0 +1,61 @@
+date,total_amt,customer_sex,age,smoker,tip,food_ordered,food_category
+2025-01-01,450,Male,23,No,45,Burger,Fast Food
+2025-01-01,780,Female,34,Yes,78,Pasta,Italian
+2025-01-02,320,Male,19,No,30,Sandwich,Fast Food
+2025-01-02,1200,Female,45,No,120,Paneer Butter Masala,Indian
+2025-01-03,650,Male,29,Yes,65,Pizza,Italian
+2025-01-03,900,Female,38,No,90,Biryani,Indian
+2025-01-04,400,Male,22,No,40,French Fries,Fast Food
+2025-01-04,1100,Female,41,Yes,110,Lasagna,Italian
+2025-01-05,500,Male,27,No,50,Chicken Wrap,Fast Food
+2025-01-05,850,Female,33,No,85,Butter Chicken,Indian
+2025-01-06,300,Male,20,Yes,30,Noodles,Chinese
+2025-01-06,700,Female,36,No,70,Fried Rice,Chinese
+2025-01-07,950,Male,40,No,95,Mutton Curry,Indian
+2025-01-07,420,Female,24,Yes,42,Momos,Chinese
+2025-01-08,680,Male,31,No,68,Cheese Pizza,Italian
+2025-01-08,520,Female,28,No,52,Grilled Sandwich,Fast Food
+2025-01-09,1150,Male,46,Yes,115,Prawn Curry,Indian
+2025-01-09,390,Female,21,No,39,Spring Rolls,Chinese
+2025-01-10,610,Male,35,No,61,Spaghetti,Italian
+2025-01-10,480,Female,26,Yes,48,Tacos,Mexican
+2025-01-11,730,Male,37,No,73,Quesadilla,Mexican
+2025-01-11,560,Female,32,No,56,Paneer Tikka,Indian
+2025-01-12,880,Male,42,Yes,88,Steak,Continental
+2025-01-12,360,Female,23,No,36,Salad,Continental
+2025-01-13,1020,Male,44,No,102,Fish Curry,Indian
+2025-01-13,450,Male,23,No,45,Burger,Fast Food
+2025-01-14,620,Female,30,Yes,62,Burrito,Mexican
+2025-01-14,510,Male,28,No,51,Chow Mein,Chinese
+2025-01-15,790,Female,39,No,79,Risotto,Italian
+2025-01-15,470,Male,25,Yes,47,Hot Dog,Fast Food
+2025-01-16,940,Female,43,No,94,Chicken Curry,Indian
+2025-01-16,380,Male,22,No,38,Dumplings,Chinese
+2025-01-17,690,Female,34,Yes,69,Nachos,Mexican
+2025-01-17,860,Male,41,No,86,Grilled Fish,Continental
+2025-01-18,520,Female,29,No,52,Veg Burger,Fast Food
+2025-01-18,610,Male,33,Yes,61,Pepperoni Pizza,Italian
+2025-01-19,990,Female,47,No,99,Lamb Rogan Josh,Indian
+2025-01-19,340,Male,20,No,34,Fried Momos,Chinese
+2025-01-20,760,Female,35,Yes,76,Enchiladas,Mexican
+2025-01-20,880,Male,42,No,88,Roast Chicken,Continental
+2025-01-21,450,Male,23,No,45,Burger,Fast Food
+2025-01-21,720,Female,31,No,72,Paneer Korma,Indian
+2025-01-22,560,Male,27,Yes,56,Mac and Cheese,Italian
+2025-01-22,410,Female,24,No,41,Falafel,Mediterranean
+2025-01-23,980,Male,45,No,98,Seafood Platter,Continental
+2025-01-23,370,Female,22,Yes,37,Spring Rolls,Chinese
+2025-01-24,630,Male,34,No,63,Margherita Pizza,Italian
+2025-01-24,540,Female,28,No,54,Veg Thali,Indian
+2025-01-25,810,Male,39,Yes,81,Tandoori Chicken,Indian
+2025-01-25,460,Female,26,No,46,Garlic Bread,Italian
+2025-01-26,900,Male,43,No,90,Grilled Steak,Continental
+2025-01-26,350,Female,21,Yes,35,Hakka Noodles,Chinese
+2025-01-27,670,Male,32,No,67,Penne Alfredo,Italian
+2025-01-27,520,Female,29,No,52,Veg Wrap,Fast Food
+2025-01-28,1040,Male,48,Yes,104,Buffet Meal,Continental
+2025-01-28,390,Female,23,No,39,Corn Soup,Chinese
+2025-01-29,760,Male,36,No,76,Burrito Bowl,Mexican
+2025-01-29,610,Female,33,Yes,61,Cheese Sandwich,Fast Food
+2025-01-30,890,Male,41,No,89,Chicken Alfredo,Italian
+2025-01-30,470,Female,25,No,47,Pav Bhaji,Indian
