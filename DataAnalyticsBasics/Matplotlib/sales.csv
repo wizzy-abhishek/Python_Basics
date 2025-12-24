@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerName,Product,Category,Quantity,UnitPrice,TotalAmount,Region,PaymentMode
+1,2024-01-01,Aarav Sharma,Laptop,Electronics,1,65000,65000,North,UPI
+2,2024-01-02,Neha Verma,Mobile Phone,Electronics,2,25000,50000,East,Card
+3,2024-01-03,Rohit Singh,Headphones,Electronics,3,2000,6000,West,Cash
+4,2024-01-04,Priya Mehta,Office Chair,Furniture,1,12000,12000,South,UPI
+5,2024-01-05,Kunal Gupta,Notebook,Stationery,10,50,500,North,Cash
+6,2024-01-06,Anjali Rao,Tablet,Electronics,1,30000,30000,South,Card
+7,2024-01-07,Vikram Patel,Desk,Furniture,1,15000,15000,West,UPI
+8,2024-01-08,Simran Kaur,Pen,Stationery,20,20,400,North,Cash
+9,2024-01-09,Amit Joshi,Monitor,Electronics,2,18000,36000,East,Card
+10,2024-01-10,Pooja Nair,Keyboard,Electronics,1,2500,2500,South,UPI
+11,2024-01-11,Deepak Yadav,Mouse,Electronics,2,1200,2400,North,UPI
+12,2024-01-12,Sneha Kapoor,Printer,Electronics,1,22000,22000,West,Card
+13,2024-01-13,Rahul Malhotra,Scanner,Electronics,1,18000,18000,East,Cash
+14,2024-01-14,Nidhi Jain,Bookshelf,Furniture,1,9000,9000,North,UPI
+15,2024-01-15,Manish Tiwari,Diary,Stationery,5,150,750,South,Cash
+16,2024-01-16,Shreya Bose,Laptop Bag,Accessories,2,3000,6000,East,Card
+17,2024-01-17,Akash Mishra,Power Bank,Accessories,3,2000,6000,West,UPI
+18,2024-01-18,Mehul Shah,Router,Electronics,1,4500,4500,North,Cash
+19,2024-01-19,Tanya Arora,Webcam,Electronics,2,3500,7000,South,Card
+20,2024-01-20,Harsh Vardhan,USB Cable,Accessories,5,300,1500,East,Cash
+21,2024-01-01,Aarav Sharma,Laptop,Electronics,1,65000,65000,North,UPI
+22,2024-01-02,Neha Verma,Mobile Phone,Electronics,1,25000,25000,East,Card
+23,2024-01-03,Rohit Singh,Headphones,Electronics,2,2000,4000,West,Cash
+24,2024-01-04,Priya Mehta,Office Chair,Furniture,1,12000,12000,South,UPI
+25,2024-01-05,Kunal Gupta,Notebook,Stationery,8,50,400,North,Cash
+26,2024-02-01,Aarav Sharma,Smart Watch,Electronics,1,15000,15000,North,UPI
+27,2024-02-02,Neha Verma,Tablet,Electronics,1,30000,30000,East,Card
+28,2024-02-03,Rohit Singh,Keyboard,Electronics,1,2500,2500,West,Cash
+29,2024-02-04,Priya Mehta,Desk Lamp,Furniture,2,3000,6000,South,UPI
+30,2024-02-05,Kunal Gupta,Pen,Stationery,30,20,600,North,Cash
+31,2024-02-06,Anjali Rao,Mobile Phone,Electronics,1,25000,25000,South,Card
+32,2024-02-07,Vikram Patel,Office Chair,Furniture,1,12000,12000,West,UPI
+33,2024-02-08,Simran Kaur,Notebook,Stationery,12,50,600,North,Cash
+34,2024-02-09,Amit Joshi,Monitor,Electronics,1,18000,18000,East,Card
+35,2024-02-10,Pooja Nair,Mouse,Electronics,2,1200,2400,South,UPI
+36,2024-02-11,Deepak Yadav,Router,Electronics,1,4500,4500,North,Cash
+37,2024-02-12,Sneha Kapoor,Printer,Electronics,1,22000,22000,West,Card
+38,2024-02-13,Rahul Malhotra,Scanner,Electronics,1,18000,18000,East,Cash
+39,2024-02-14,Nidhi Jain,Bookshelf,Furniture,1,9000,9000,North,UPI
+40,2024-02-15,Manish Tiwari,Diary,Stationery,4,150,600,South,Cash
+41,2024-02-16,Shreya Bose,Laptop Bag,Accessories,1,3000,3000,East,Card
+42,2024-02-17,Akash Mishra,Power Bank,Accessories,2,2000,4000,West,UPI
+43,2024-02-18,Mehul Shah,Router,Electronics,1,4500,4500,North,Cash
+44,2024-02-19,Tanya Arora,Webcam,Electronics,1,3500,3500,South,Card
+45,2024-02-20,Harsh Vardhan,USB Cable,Accessories,4,300,1200,East,Cash
+46,2024-03-01,Aarav Sharma,Laptop,Electronics,1,65000,65000,North,UPI
+47,2024-03-02,Neha Verma,Mobile Phone,Electronics,2,25000,50000,East,Card
+48,2024-03-03,Rohit Singh,Headphones,Electronics,1,2000,2000,West,Cash
+49,2024-03-04,Priya Mehta,Office Chair,Furniture,1,12000,12000,South,UPI
+50,2024-03-05,Kunal Gupta,Notebook,Stationery,10,50,500,North,Cash
+51,2024-03-06,Anjali Rao,Tablet,Electronics,1,30000,30000,South,Card
+52,2024-03-07,Vikram Patel,Desk,Furniture,1,15000,15000,West,UPI
+53,2024-03-08,Simran Kaur,Pen,Stationery,25,20,500,North,Cash
+54,2024-03-09,Amit Joshi,Monitor,Electronics,2,18000,36000,East,Card
+55,2024-03-10,Pooja Nair,Keyboard,Electronics,1,2500,2500,South,UPI
+56,2024-03-11,Deepak Yadav,Mouse,Electronics,3,1200,3600,North,UPI
+57,2024-03-12,Sneha Kapoor,Printer,Electronics,1,22000,22000,West,Card
+58,2024-03-13,Rahul Malhotra,Scanner,Electronics,1,18000,18000,East,Cash
+59,2024-03-14,Nidhi Jain,Bookshelf,Furniture,1,9000,9000,North,UPI
+60,2024-03-15,Manish Tiwari,Diary,Stationery,6,150,900,South,Cash
+61,2024-03-16,Shreya Bose,Laptop Bag,Accessories,2,3000,6000,East,Card
+62,2024-03-17,Akash Mishra,Power Bank,Accessories,3,2000,6000,West,UPI
+63,2024-03-18,Mehul Shah,Router,Electronics,1,4500,4500,North,Cash
+64,2024-03-19,Tanya Arora,Webcam,Electronics,2,3500,7000,South,Card
+65,2024-03-20,Harsh Vardhan,USB Cable,Accessories,5,300,1500,East,Cash
+66,2024-03-21,Aarav Sharma,Laptop,Electronics,1,65000,65000,North,UPI
+67,2024-03-22,Neha Verma,Mobile Phone,Electronics,1,25000,25000,East,Card
+68,2024-03-23,Rohit Singh,Headphones,Electronics,2,2000,4000,West,Cash
+69,2024-03-24,Priya Mehta,Office Chair,Furniture,1,12000,12000,South,UPI
+70,2024-03-25,Kunal Gupta,Notebook,Stationery,9,50,450,North,Cash
+71,2024-03-26,Anjali Rao,Tablet,Electronics,1,30000,30000,South,Card
+72,2024-03-27,Vikram Patel,Desk,Furniture,1,15000,15000,West,UPI
+73,2024-03-28,Simran Kaur,Pen,Stationery,18,20,360,North,Cash
+74,2024-03-29,Amit Joshi,Monitor,Electronics,1,18000,18000,East,Card
+75,2024-03-30,Pooja Nair,Keyboard,Electronics,2,2500,5000,South,UPI
+76,2024-04-01,Deepak Yadav,Mouse,Electronics,2,1200,2400,North,UPI
+77,2024-04-02,Sneha Kapoor,Printer,Electronics,1,22000,22000,West,Card
+78,2024-04-03,Rahul Malhotra,Scanner,Electronics,1,18000,18000,East,Cash
+79,2024-04-04,Nidhi Jain,Bookshelf,Furniture,1,9000,9000,North,UPI
+80,2024-04-05,Manish Tiwari,Diary,Stationery,5,150,750,South,Cash
+81,2024-04-06,Shreya Bose,Laptop Bag,Accessories,1,3000,3000,East,Card
+82,2024-04-07,Akash Mishra,Power Bank,Accessories,2,2000,4000,West,UPI
+83,2024-04-08,Mehul Shah,Router,Electronics,1,4500,4500,North,Cash
+84,2024-04-09,Tanya Arora,Webcam,Electronics,1,3500,3500,South,Card
+85,2024-04-10,Harsh Vardhan,USB Cable,Accessories,3,300,900,East,Cash
+86,2024-04-11,Aarav Sharma,Laptop,Electronics,1,65000,65000,North,UPI
+87,2024-04-12,Neha Verma,Mobile Phone,Electronics,2,25000,50000,East,Card
+88,2024-04-13,Rohit Singh,Headphones,Electronics,3,2000,6000,West,Cash
+89,2024-04-14,Priya Mehta,Office Chair,Furniture,1,12000,12000,South,UPI
+90,2024-04-15,Kunal Gupta,Notebook,Stationery,10,50,500,North,Cash
+91,2024-04-16,Anjali Rao,Tablet,Electronics,1,30000,30000,South,Card
+92,2024-04-17,Vikram Patel,Desk,Furniture,1,15000,15000,West,UPI
+93,2024-04-18,Simran Kaur,Pen,Stationery,20,20,400,North,Cash
+94,2024-04-19,Amit Joshi,Monitor,Electronics,2,18000,36000,East,Card
+95,2024-04-20,Pooja Nair,Keyboard,Electronics,1,2500,2500,South,UPI
+96,2024-04-21,Deepak Yadav,Mouse,Electronics,2,1200,2400,North,UPI
+97,2024-04-22,Sneha Kapoor,Printer,Electronics,1,22000,22000,West,Card
+98,2024-04-23,Rahul Malhotra,Scanner,Electronics,1,18000,18000,East,Cash
+99,2024-04-24,Nidhi Jain,Bookshelf,Furniture,1,9000,9000,North,UPI
+100,2024-04-25,Manish Tiwari,Diary,Stationery,5,150,750,South,Cash
