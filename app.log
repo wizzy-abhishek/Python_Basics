@@ -1,0 +1,40 @@
+2025-12-25 15:48:58-root-INFO-This is a basic information
+2025-12-25 15:48:58-root-WARNING-Something is wrong
+2025-12-25 15:48:58-root-CRITICAL-This is a critical information
+2025-12-25 15:48:58-root-DEBUG-This is a debug message
+2025-12-25 15:48:58-root-ERROR-error occured
+2025-12-25 15:50:00-root-INFO-This is a basic information
+2025-12-25 15:50:00-root-WARNING-Something is wrong
+2025-12-25 15:50:00-root-CRITICAL-This is a critical information
+2025-12-25 15:50:00-root-DEBUG-This is a debug message
+2025-12-25 15:50:00-root-ERROR-error occured
+2025-12-25 15:50:01-root-INFO-This is a basic information
+2025-12-25 15:50:01-root-WARNING-Something is wrong
+2025-12-25 15:50:01-root-CRITICAL-This is a critical information
+2025-12-25 15:50:01-root-DEBUG-This is a debug message
+2025-12-25 15:50:01-root-ERROR-error occured
+2025-12-25 15:50:02-root-INFO-This is a basic information
+2025-12-25 15:50:02-root-WARNING-Something is wrong
+2025-12-25 15:50:02-root-CRITICAL-This is a critical information
+2025-12-25 15:50:02-root-DEBUG-This is a debug message
+2025-12-25 15:50:02-root-ERROR-error occured
+2025-12-25 15:50:25-root-INFO-This is a basic information
+2025-12-25 15:50:25-root-WARNING-Something is wrong
+2025-12-25 15:50:25-root-CRITICAL-This is a critical information
+2025-12-25 15:50:25-root-DEBUG-This is a debug message
+2025-12-25 15:50:25-root-ERROR-error occured
+2025-12-25 15:53:15-root-INFO-This is a basic information
+2025-12-25 15:53:15-root-WARNING-Something is wrong
+2025-12-25 15:53:15-root-CRITICAL-This is a critical information
+2025-12-25 15:53:15-root-DEBUG-This is a debug message
+2025-12-25 15:53:15-root-ERROR-error occured
+2025-12-25 16:03:15-root-INFO-This is a basic information
+2025-12-25 16:03:15-root-WARNING-Something is wrong
+2025-12-25 16:03:15-root-CRITICAL-This is a critical information
+2025-12-25 16:03:15-root-DEBUG-This is a debug message
+2025-12-25 16:03:15-root-ERROR-error occured
+2025-12-25 16:04:17-root-INFO-This is a basic information
+2025-12-25 16:04:17-root-WARNING-Something is wrong
+2025-12-25 16:04:17-root-CRITICAL-This is a critical information
+2025-12-25 16:04:17-root-DEBUG-This is a debug message
+2025-12-25 16:04:17-root-ERROR-error occured
