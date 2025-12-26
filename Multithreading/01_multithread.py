@@ -10,9 +10,9 @@ def alphabet():
 
 t1 = threading.Thread(target=num)
 t2 = threading.Thread(target=alphabet)
-
 t1.start()
 t2.start()
 
 t1.join()
-t2.join()
+print(t1.is_alive())
+print(t2.is_alive())
